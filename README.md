@@ -1,2 +1,2 @@
 # Laundry
-Website for Laundary
+Website Design for Laundary
