@@ -63,15 +63,7 @@
 	margin-left: 485px;
 }
 
-#u30398
-{
-	z-index: 500;
-	width: 30px;
-	height: 30px;
-	top: 7px;
-	left: 50%;
-	margin-left: 531px;
-}
+
 
 #u23779
 {
@@ -801,21 +793,20 @@
 	left: 29px;
 }
 
-#u26331-4
-{
-	z-index: 92;
-	width: 49px;
-	min-height: 49px;
-	text-align: center;
-	font-size: 36px;
-	color: #FFFFFF;
-	line-height: 43px;
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 71px;
-	left: 83px;
+#u26331-4 {
+    z-index: 92;
+    width: 85px;
+    min-height: 49px;
+    text-align: center;
+    font-size: 28px;
+    color: #FFF;
+    line-height: 41px;
+    font-family: open-sans,sans-serif;
+    font-weight: 700;
+    position: absolute;
+    margin-right: -10000px;
+    margin-top: 71px;
+    left: 62px;
 }
 
 #pu26327
@@ -847,26 +838,11 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #29ABE2;
-	padding-bottom: 31px;
+	padding-bottom: 65px;
 	margin-top: 19px;
 	position: relative;
 }
 
-#u26322-4
-{
-	z-index: 88;
-	width: 18px;
-	min-height: 8px;
-	font-size: 18px;
-	line-height: 22px;
-	color: #FFFFFF;
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 68px;
-}
 
 #u26318-16
 {
@@ -1029,21 +1005,20 @@
 	left: 29px;
 }
 
-#u26333-4
-{
-	z-index: 134;
-	width: 49px;
-	min-height: 49px;
-	text-align: center;
-	font-size: 36px;
-	color: #FFFFFF;
-	line-height: 43px;
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 71px;
-	left: 83px;
+#u26333-4 {
+    z-index: 134;
+    width: 100px;
+    min-height: 70px;
+    text-align: center;
+    font-size: 28px;
+    color: #FFF;
+    line-height: 35px;
+    font-family: open-sans,sans-serif;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 72px;
+    left: 68px;
+    font-weight: 700;
 }
 
 #pu26337
@@ -1068,16 +1043,15 @@
 	position: relative;
 }
 
-#u26336
-{
-	z-index: 98;
-	width: 214px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #29ABE2;
-	padding-bottom: 31px;
-	margin-top: 19px;
-	position: relative;
+#u26336 {
+    z-index: 98;
+    width: 215px;
+    border-style: none;
+    border-color: transparent;
+    background-color: #29ABE2;
+    padding-bottom: 46px;
+    margin-top: 19px;
+    position: relative;
 }
 
 #u26346-4
