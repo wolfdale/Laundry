@@ -462,7 +462,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/services_coin-u24647-fr.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/DRY.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -892,7 +892,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 640px;
-	background: #7F7F7F url("../images/services_redential-u24657-fr.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/regular.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -919,7 +919,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/services_business-u24666-fr.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/delivery.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -1341,7 +1341,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 640px;
-	background: #7F7F7F url("../images/services_industrial-u24681-fr.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/fold.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
@@ -1898,7 +1898,7 @@
 }
 
 #u30871-4
-{   color: #FFF;
+{   color: #999;
 	z-index: 411;
 	width: 270px;
 	min-height: 122px;
